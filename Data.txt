@@ -1,0 +1,8 @@
+Please introduce yourself such as :
+
+Name 		:
+Student ID 	:
+Major 		:
+
+After that, push on directory github classroom using "Git". 
+
