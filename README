@@ -10,8 +10,6 @@ open and copy the link
 
 step 3:
 
-for windows
-
 open git bash in local directory and follow this command. It will be clone your repository GitHub in your local repository
 
 git clone + your_repository_Http_address
