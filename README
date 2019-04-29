@@ -1,3 +1,17 @@
-Clone this repository to open the file. make sure you have "GIT" in your local repository and follow this comand :
+Clone this repository to open the file. make sure you have "GIT" in your personal computer and follow this step:
 
- git clone + your repository
+Step 1:
+
+open your GitHub account and find your homework repository, 
+
+
+step 2: 
+open and copy the link
+
+step 3:
+
+for windows
+
+open git bash in local directory and follow this command. It will be clone your repository GitHub in your local repository
+
+git clone + your_repository_Http_address
